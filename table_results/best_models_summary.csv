@@ -1,0 +1,5 @@
+"Model_Name","Formula","WAIC","MLIK"
+"Model_2","MRST ~ 0 + temp_indoor + (ar1|days_count) + (1|village)",2090.28898040916,-1054.22182876888
+"Model_4","MRST ~ 0 + sat_temp_mean + (ar1|days_count) + (1|village)",1993.14072665594,-1005.85433348035
+"Model_6","MRST ~ 0 + sat_temp_min + (ar1|days_count) + (1|village)",2000.78836780847,-1009.82450760969
+"Model_8","MRST ~ 0 + sat_temp_max + (ar1|days_count) + (1|village)",2085.77470065204,-1052.54360394966

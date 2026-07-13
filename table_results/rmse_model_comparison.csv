@@ -1,0 +1,5 @@
+"Model","RMSE","Description"
+"cit_0",2.71363138340092,"Indoor temp"
+"avg_sat_0",2.42623883067339,"Sat mean temp"
+"min_sat_0",2.4492843658829,"Sat min temp"
+"max_sat_0",2.70315032453955,"Sat max temp"
